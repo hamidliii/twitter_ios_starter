@@ -64,13 +64,11 @@
                                     <rect key="frame" x="0.0" y="0.0" width="414" height="224"/>
                                     <autoresizingMask key="autoresizingMask"/>
                                     <subviews>
-                                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="252" misplaced="YES" text="John Done" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="smW-Lk-cfN">
-                                            <rect key="frame" x="93" y="11" width="266" height="20"/>
+                                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="252" text="John Done" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="smW-Lk-cfN">
+                                            <rect key="frame" x="93" y="11" width="266" height="19.5"/>
                                             <constraints>
-                                                <constraint firstAttribute="width" constant="82.5" id="1Mq-fg-qsk"/>
                                                 <constraint firstAttribute="width" relation="greaterThanOrEqual" constant="266" id="eDl-DI-csF"/>
                                                 <constraint firstAttribute="height" relation="greaterThanOrEqual" constant="14" id="he5-zT-c7D"/>
-                                                <constraint firstAttribute="height" constant="19.5" id="vMB-e9-JvF"/>
                                             </constraints>
                                             <fontDescription key="fontDescription" type="boldSystem" pointSize="15"/>
                                             <nil key="textColor"/>
